@@ -1,3 +1,0 @@
-[submodule "odoo_learn_addons"]
-	path = odoo_learn_addons
-	url = git@github.com:automatimo/odoo_learn.git
