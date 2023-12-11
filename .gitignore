@@ -47,3 +47,7 @@ package.json
 /man/
 /share/
 /src/
+
+# custom
+.venv11
+.tx
